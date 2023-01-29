@@ -1,0 +1,30 @@
+/* styles.css */
+div { 
+    color: orangered;
+    background-color: gray;
+    
+    font-family: Cambria;
+    font-size: 20px;
+    font-weight: 800;
+    text-align: right;
+
+} 
+h2 {
+    color: yellowgreen;
+}
+p { 
+    color: olivedrab;
+    font-family: Geneva;
+    font-size: 30px;
+}
+h3 {
+    color: blue;
+    font-weight: 700;
+}
+    
+
+img {
+    height: auto;
+
+    width: 800px;
+}

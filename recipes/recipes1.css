@@ -1,1 +1,30 @@
 /* styles.css */
+div { 
+    color: red;
+    background-color: black;
+    
+    font-family: Arial;
+    font-size: 18px;
+    font-weight: 700px;
+    text-align: center;
+
+} 
+h2 {
+    color: green;
+}
+p { 
+    color: goldenrod;
+    font-family: 'Courier New';
+    font-size: 22px;
+}
+h3 {
+    color: purple;
+    font-weight: 900;
+}
+    
+
+img {
+    height: auto;
+
+    width: 780px;
+}
